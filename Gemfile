@@ -46,3 +46,7 @@ end
 group :test do
   gem 'shoulda-matchers', git: 'https://github.com/thoughtbot/shoulda-matchers.git'
 end
+
+gem "fast_jsonapi", "~> 1.3"
+
+gem "restful-jsonapi", "~> 1.0"
